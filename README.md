@@ -8,6 +8,13 @@ The visualizations are available in the [plots](https://github.com/Dominule/SAD_
 ![boxplot](https://github.com/Dominule/SAD_homework/blob/master/plots/boxplot_culture_comparison.png)
 ![violin_plot](https://github.com/Dominule/SAD_homework/blob/master/plots/violinplot_culture_comparison.png)
 
+Overview of the tissue models:
+- ALL - acute lymphoblastic leukemia
+- PML - promyelocytic leukemia
+- MYE - myeloma
+- LYM - lymphoma
+- CML - chronic myeloid leukemia
+
 The data were taken from this study:
 
 Kohn K.W. et al. PLoS One 2014, 9(6) e99269
